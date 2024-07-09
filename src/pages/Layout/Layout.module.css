@@ -1,0 +1,23 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.wrapper {
+  border-radius: 0;
+  height: 100%;
+  border-top: none;
+  border-bottom: none;
+  width: 100%;
+  max-width: 600px;
+}
+@media screen and (max-width: 1000px) {
+  .rightSide {
+    display: none;
+  }
+  .addForm {
+    display: none;
+  }
+}

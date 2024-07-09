@@ -1,0 +1,20 @@
+
+.tweets__header {
+  display: flex;
+  align-items: center;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-radius: 0;
+  padding: 15px;
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 10;
+}
+
+.tweets__title {
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+}

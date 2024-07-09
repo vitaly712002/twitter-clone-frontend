@@ -1,0 +1,54 @@
+{
+  "tweets": [
+    {
+      "_id": "6064d7f7893377145397d73c",
+      "text": "Non minim ex dolore irure anim officia elit non voluptate esse id sunt ea sit.",
+      "user": {
+        "fullname": "Sue Bradshaw",
+        "username": "Mallory",
+        "avatarUrl": "https://picsum.photos/200/300"
+      },
+      "id": "1"
+    },
+    {
+      "_id": "6064d7f717ae346253202302",
+      "text": "Sit ut officia anim nostrud ex non deserunt Lorem.",
+      "user": {
+        "fullname": "Kris Stewart",
+        "username": "Odom",
+        "avatarUrl": "https://source.unsplash.com/random"
+      },
+      "id": "2"
+    }
+  ],
+  "tags": [
+    {
+      "_id": "d2d243wd343443dwdw3",
+      "name": "Навальный",
+      "count": 144
+    },
+    {
+      "_id": "d2243wwwd343443dwddwdw3",
+      "name": "Гитлер",
+      "count": 888
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Eileen Gross",
+      "username": "Becker",
+      "avatarUrl": "https://picsum.photos/200/300"
+    },
+    {
+      "fullname": "Noelle Flores",
+      "username": "Florine",
+      "avatarUrl": "https://source.unsplash.com/random"
+    }
+  ],
+  "user": {
+    "_id": "d2243wd343443dwdw3",
+    "fullname": "Vitaly Margaryan",
+    "username": "Vitaly3000",
+    "avatarUrl": "https://picsum.photos/200/300"
+  }
+}
